@@ -4,6 +4,15 @@ A passionate **Front-End Developer** with 3+ years of experience in building mod
 
 ---
 
+## 💼 About Me
+
+* 🔭 I’m currently working on **Angular / React frontend projects**
+* 🌱 Learning and improving skills in **Node.js**, **API integrations**, and advanced UI animations
+* 💬 Ask me about **Angular, React, UI development, responsive design, and component-based architecture**
+* 🤝 Open to collaborating on **frontend projects, UI libraries, and open-source contributions**
+
+---
+
 ## 🚀 Tech Stack & Tools
 
 ### **Frontend Technologies**
@@ -32,15 +41,6 @@ A passionate **Front-End Developer** with 3+ years of experience in building mod
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
 </p>
-
----
-
-## 💼 About Me
-
-* 🔭 I’m currently working on **Angular / React frontend projects**
-* 🌱 Learning and improving skills in **Node.js**, **API integrations**, and advanced UI animations
-* 💬 Ask me about **Angular, React, UI development, responsive design, and component-based architecture**
-* 🤝 Open to collaborating on **frontend projects, UI libraries, and open-source contributions**
 
 ---
 
