@@ -24,8 +24,6 @@ A passionate **Front-End Developer** with 3+ years of experience in building mod
 
 **🟥 Angular Material** — A UI library for Angular with modern, accessible, and ready-to-use components.
 
-**🎨 MUI (Material UI)** — A React UI library based on Material Design with elegant components.
-
 ### **Frontend Technologies**
 
 <p align="left">
