@@ -1,5 +1,5 @@
 ## Hi there 👋
-![photo](https://github.com/user-attachments/assets/e93731ac-13f8-4880-b4a5-a86ad91b67c5)
+
 
 <!--
 **aasiqueahmed-dev/aasiqueahmed-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
