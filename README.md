@@ -48,6 +48,14 @@ A passionate **Front-End Developer** with 3+ years of experience in building mod
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/>
 </p>
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
+  <img src="https://mui.com/static/logo.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/angular/components/main/src/material/icon/logo.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/>
+</p>
+
 ### **Tools & Platforms**
 
 <p align="left">
