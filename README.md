@@ -43,8 +43,7 @@ A passionate **Front-End Developer** with 3+ years of experience in building mod
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
-  <img src="https://mui.com/static/logo.png" width="50"/>
+  <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
   <img src="https://angular-material.dev/assets/img/angular-material-logo.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/>
 </p>
@@ -54,8 +53,6 @@ A passionate **Front-End Developer** with 3+ years of experience in building mod
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="50"/>
 </p>
 
 ---
