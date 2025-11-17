@@ -4,6 +4,7 @@
 **aasiqueahmed-dev/aasiqueahmed-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![photo](https://github.com/user-attachments/assets/f737e322-2692-454c-b1b6-5c9e783159ce)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
