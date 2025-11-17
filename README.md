@@ -6,24 +6,6 @@ A passionate **Front-End Developer** with 3+ years of experience in building mod
 
 ## 🚀 Tech Stack & Tools
 
-**🅰️ Angular** — A powerful TypeScript-based front-end framework used to build large-scale, dynamic web applications with structured architecture.
-
-**⚛️ React** — A lightweight JavaScript library for building fast and reusable UI components using a virtual DOM.
-
-**🌐 HTML5** — The core structure of every website, defining the layout and content.
-
-**🎨 CSS3** — Controls styling, animations, responsiveness, and overall visual design.
-
-**🟨 JavaScript** — The main programming language of the web that brings interactivity and logic.
-
-**🔷 TypeScript** — A superset of JavaScript adding static types for better scalability and fewer errors.
-
-**🌀 Tailwind CSS** — A utility-first CSS framework to build modern, responsive UI quickly.
-
-**📘 Bootstrap** — A popular CSS framework offering prebuilt responsive UI components.
-
-**🟥 Angular Material** — A UI library for Angular with modern, accessible, and ready-to-use components.
-
 ### **Frontend Technologies**
 
 <p align="left">
