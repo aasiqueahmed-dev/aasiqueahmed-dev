@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Aasique Ahmed
+# Hi there! 👋 I'm Aashique Ahmed
 
 A passionate **Front-End Developer** with 3+ years of experience in building modern, user-friendly, and scalable web applications using Angular, React, and many powerful UI technologies.
 
