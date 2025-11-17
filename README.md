@@ -57,8 +57,6 @@ A passionate **Front-End Developer** with 3+ years of experience in building mod
 
 ---
 
----
-
 ## 📫 Connect With Me
 
 * **LinkedIn:** [aasique-ahmed](https://www.linkedin.com/in/aasique-ahmed/)
